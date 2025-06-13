@@ -1,1 +1,1 @@
-# SQL_Fundamentals_1
+# SQL Fundamentals

@@ -1,6 +1,7 @@
 # SQL Fundamentals
 
 SQL Fundamentals Ödevleri
+
 Bu repository, SQL temellerini öğrenmek ve pratik yapmak için hazırlanmış ödevleri içermektedir. Temel SQL komutlarından başlayarak ileri seviye sorgulara kadar kapsamlı alıştırmalar içerir.
 
 Ödev Listesi

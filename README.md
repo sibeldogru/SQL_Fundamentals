@@ -26,3 +26,15 @@ SUM, AVG, MIN, MAX gibi aggregate fonksiyonları
 
 7. ÖDEV - GROUP_BY_HAVING
 Veri gruplama (GROUP BY) ve HAVING koşulu kullanımı
+
+8. ÖDEV - CREATING & DELETING & UPDATING TABLES
+Tablo oluşturma (CREATE), güncelleme (UPDATE) ve silme (DELETE) işlemleri üzerine temel uygulamalar
+
+9. ÖDEV - INNER JOIN
+INNER JOIN kullanarak birden fazla tabloyu ilişkilendirerek veri çekme çalışmaları
+
+10. ÖDEV - FULL JOIN, RIGHT JOIN, LEFT JOIN
+FULL, RIGHT ve LEFT JOIN türleriyle farklı eşleştirme senaryoları üzerinden sorgu uygulamaları
+
+11. ÖDEV - UNION, INTERSECT, EXCEPT
+Birden fazla sorgu sonucunu birleştirme (UNION), kesişim (INTERSECT) ve fark (EXCEPT) işlemleriyle veri analizi
